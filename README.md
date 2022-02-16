@@ -7,10 +7,11 @@ Here are some things about me:
 - 📫 Reach me: alan.iury.2012@gmail.com
 - 😄 Pronouns: He/Him
 
+##
+
 <div align="center">
   <a href="https://github.com/alanbbrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbbrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbbrito&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <div style="display: inline_block"><br>
