@@ -3,7 +3,7 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on Environmental Engineering 
-- 🌱 I’m currently learning Javascript/HTML5/CSS3
+- 🌱 I’m currently learning Java
 - 📫 Reach me: alan.iury.2012@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -11,14 +11,16 @@ Here are some things about me:
 
 <div align="center">
   <a href="https://github.com/alanbbrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbbrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbbrito&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
 
 </div>
   
