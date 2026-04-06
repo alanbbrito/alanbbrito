@@ -2,8 +2,8 @@
 
 Here are some things about me:
 
-- 🔭 I’m currently working on Environmental Engineering 
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Product Management 
+- 🌱 I’m always learning
 - 📫 Reach me: alan.iury.2012@gmail.com
 - 😄 Pronouns: He/Him
 
